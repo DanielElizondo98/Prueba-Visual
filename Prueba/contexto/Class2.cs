@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace contexto
 {
-    public class Class1
+    public class Class2
     {
+        int ID { get; set; }
 
-        public void wilplay()
-        {
-            int a;
-        }
+
     }
 }
