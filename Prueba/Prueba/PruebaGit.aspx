@@ -11,6 +11,8 @@
     <form id="form1" runat="server">
     <div>
         <h1>HELLO</h1>
+        <p>Esto es mi texto nuevo</p> <a href="PruebaFolder/HtmlPage1.html">Pagina 2</a>
+
     </div>
     </form>
 </body>

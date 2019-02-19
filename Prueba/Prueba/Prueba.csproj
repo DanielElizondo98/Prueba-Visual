@@ -75,6 +75,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="PruebaFolder\custom.css" />
+    <Content Include="PruebaFolder\HtmlPage1.html" />
     <Content Include="PruebaGit.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
